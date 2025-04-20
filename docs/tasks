@@ -1,0 +1,58 @@
+# Tasks - Phase 0: Ultra-Lean Setup & Template Integration
+
+## Template Evaluation & Component Extraction
+
+*   [x] Deep dive evaluation of Next.js E-commerce Template by Strapi (Customer App)
+*   [x] Deep dive evaluation of Next.js Commerce by Vercel (Customer App)
+*   [x] Deep dive evaluation of Food Delivery UI Kit by Instamobile (Driver App - React Native)
+*   [x] Deep dive evaluation of React Admin Dashboard by Devias IO (Admin Dashboard)
+*   [x] Deep dive evaluation of Tabler (Admin Dashboard)
+*   [x] Create comparison table of template features, customization options, and integration challenges.
+*   [x] Select final templates for Customer App, Driver App, and Admin Dashboard.
+*   [x] Develop component extraction plan for Next.js E-commerce Template by Strapi (Customer App)
+*   [x] Develop component extraction plan for Food Delivery UI Kit by Instamobile (Driver App)
+*   [x] Develop component extraction plan for React Admin Dashboard by Devias IO (Admin Dashboard)
+
+    ### Next.js E-commerce Template by Strapi (Customer App) - Extraction Steps
+    *   [ ] Project Setup
+    *   [ ] Component Identification
+    *   [ ] Dependency Analysis
+    *   [ ] Extraction & Refactoring
+    *   [ ] Testing
+    *   [ ] Integration (Ongoing)
+
+    ### Food Delivery UI Kit by Instamobile (Driver App) - Extraction Steps
+    *   [ ] Project Setup
+    *   [ ] Component Identification
+    *   [ ] Dependency Analysis
+    *   [ ] Extraction & Refactoring
+    *   [ ] Map Integration
+    *   [ ] Testing
+
+    ### React Admin Dashboard by Devias IO (Admin Dashboard) - Extraction Steps
+    *   [ ] Project Setup
+    *   [ ] Component Identification
+    *   [ ] Dependency Analysis
+    *   [ ] Extraction & Refactoring
+    *   [ ] Authentication Integration
+    *   [ ] Testing
+
+## Project Setup & Monorepo Initialization
+
+*   [x] Initialize monorepo project using Turborepo.
+*   [x] Set up basic directory structure (apps, packages, tools, docs).
+*   [x] Configure Git for version control.
+*   [x] Set up basic linters and code formatters (ESLint, Prettier).
+
+## Database Schema Sketch
+
+*   [x] Define core entities (Users, Stores, Products, Orders, Drivers).
+*   [x] Identify essential attributes for each entity.
+*   [x] Sketch preliminary database schema diagram.
+
+## Documentation
+
+*   [x] Create `decisions.md` and document mobile app technology choice.
+*   [x] Update `tech_stack.md` with chosen technologies.
+*   [x] Create `project_plan.md` outlining project phases and deliverables.
+*   [x] Create `tasks.md` with detailed tasks for Phase 0.
